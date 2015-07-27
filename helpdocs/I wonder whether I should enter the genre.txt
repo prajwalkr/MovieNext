@@ -1,0 +1,3 @@
+No! You needn't. 
+You enter a genre ---> you will be suggested a movie of that genre but also quite similar to your tastes as judged by MovieNext.
+You leave genre blank ---> you will be suggested a movie based ONLY on your "previous likes/dislikes".

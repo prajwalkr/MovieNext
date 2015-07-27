@@ -1,0 +1,4 @@
+1. If you have a username which you have used with MovieNext, use the same one.
+   MovieNext shall then recall your preferences.
+2. If you don't, choose a unique username -> MovieNext recollects your preferences based on your username.
+3. A human verification system is designed to check for bots.

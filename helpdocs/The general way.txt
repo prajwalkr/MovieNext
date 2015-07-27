@@ -1,0 +1,8 @@
+1. Choose "New User/Old user" depending upon whether you have an account with MovieNext before
+2. Login with a username and pass the human verification test.
+3. Enter a genre if you desire any specific genre at the moment. Or leave it blank. The suggested movie shall also 
+   depend on the kinds of movies you liked or disliked before. But the suggested movie will have a slice of your desired genre too.
+
+4. If you leave it blank, the suggested movie is solely based on your tastes.
+5. The tags shown below the movie give you a clue about the movie. 
+

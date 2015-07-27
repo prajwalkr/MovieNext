@@ -1,0 +1,1128 @@
+886	sci-fi	802
+229	comedy	796
+18	action	758
+994	surreal	733
+1049	twist ending	728
+416	funny	665
+214	classic	637
+85	atmospheric	633
+285	dark comedy	630
+862	romance	598
+823	psychology	588
+376	fantasy	586
+106	based on a book	561
+1027	time travel	510
+1023	thought-provoking	510
+828	quirky	509
+335	dystopia	507
+1083	violence	500
+1090	visually appealing	466
+981	stylized	457
+284	dark	455
+311	disturbing	454
+935	social commentary	451
+63	animation	451
+330	drugs	450
+140	black comedy	443
+28	adventure	440
+876	satire	437
+683	music	436
+714	nonlinear	407
+806	predictable	401
+154	boring	395
+1024	thriller	391
+1046	true story	380
+802	post-apocalyptic	379
+275	cult film	379
+941	space	376
+44	aliens	370
+51	alternate reality	366
+521	horror	365
+731	nudity (topless)	364
+470	great soundtrack	363
+322	drama	355
+799	politics	354
+1095	war	349
+1120	world war ii	346
+1127	zombies	345
+988	superhero	344
+109	based on a true story	343
+849	revenge	337
+137	bittersweet	337
+211	cinematography	334
+231	comic book	319
+1084	violent	318
+324	dreamlike	317
+678	multiple storylines	316
+784	pixar	314
+644	mental illness	310
+998	suspense	308
+902	serial killer	305
+822	psychological	304
+685	musical	304
+267	crime	304
+846	religion	303
+234	coming of age	301
+977	stupid	289
+411	friendship	288
+779	philosophy	286
+1019	tense	284
+769	parody	284
+547	inspirational	283
+502	high school	275
+762	overrated	274
+622	magic	273
+139	black and white	272
+1113	witty	271
+163	british	271
+504	hilarious	268
+688	mystery	263
+651	mindfuck	262
+630	martial arts	257
+535	imdb top 250	256
+528	humorous	251
+508	history	250
+860	robots	248
+740	organized crime	248
+755	oscar (best picture)	244
+373	family	244
+848	remake	243
+928	slow	242
+119	beautiful	240
+621	mafia	239
+314	documentary	236
+295	depressing	236
+464	great acting	235
+224	coen brothers	233
+370	fairy tale	229
+778	philosophical	224
+418	future	223
+308	disney	223
+64	anime	223
+347	emotional	219
+507	historical	217
+574	japan	216
+995	surrealism	213
+76	artificial intelligence	212
+812	prison	210
+241	complicated	208
+834	racism	207
+1068	vampires	206
+1034	touching	202
+741	original	201
+208	christianity	200
+730	nudity (topless - notable)	199
+727	nudity (full frontal)	198
+1031	too long	193
+609	loneliness	193
+908	sexuality	192
+681	murder	192
+360	espionage	192
+613	love story	191
+384	father-son relationship	189
+250	conspiracy	189
+279	cyberpunk	188
+200	chick flick	188
+877	satirical	186
+704	new york city	186
+696	nazis	185
+219	clever	185
+1103	weird	184
+353	ensemble cast	183
+96	bad acting	182
+854	road trip	181
+845	relationships	181
+870	sad	180
+349	england	178
+203	children	178
+497	heist	176
+419	futuristic	174
+900	sequel	173
+455	gore	172
+69	apocalypse	172
+612	love	171
+650	military	170
+1086	virtual reality	169
+918	silly	169
+801	post apocalyptic	169
+209	christmas	169
+1107	whimsical	168
+257	corruption	168
+984	suicide	167
+434	ghosts	167
+424	gay	167
+496	heartwarming	166
+615	low budget	165
+997	survival	164
+467	great ending	163
+325	dreams	163
+837	rape	161
+788	plot twist	160
+80	assassin	160
+552	intense	158
+301	dialogue	158
+266	creepy	158
+641	memory	157
+844	reflective	156
+794	police	154
+288	dark humor	154
+277	cute	154
+133	biography	154
+514	holocaust	153
+1106	western	152
+598	lesbian	152
+610	long	150
+197	cheesy	150
+1091	visually stunning	149
+658	mockumentary	149
+392	film noir	148
+78	artistic	148
+839	realistic	147
+768	paris	147
+726	nudity (full frontal - notable)	147
+387	feel-good	146
+291	death	146
+121	beautifully filmed	145
+534	imagination	144
+748	oscar (best cinematography)	143
+413	fun	143
+1021	terrorism	142
+958	sports	142
+459	gothic	142
+164	british comedy	142
+116	batman	142
+21	adapted from:book	142
+1062	unrealistic	141
+550	intelligent	141
+1012	teen	140
+690	narrated	140
+405	franchise	140
+527	humor	139
+377	fantasy world	139
+572	james bond	137
+358	epic	137
+252	controversial	137
+975	studio ghibli	135
+970	story	134
+729	nudity (topless - brief)	134
+306	disappointing	133
+274	cult classic	133
+245	computers	133
+1079	vietnam war	132
+944	space travel	132
+635	mathematics	132
+367	existentialism	132
+863	romantic	131
+805	powerful ending	131
+179	cannibalism	131
+1033	torture	129
+720	notable soundtrack	128
+410	french	128
+120	beautiful scenery	128
+786	plot	127
+546	insanity	126
+486	hallucinatory	126
+182	car chase	126
+950	special effects	125
+797	political	125
+100	bad science	125
+881	scary	124
+783	pirates	124
+192	cgi	124
+158	boxing	124
+888	science fiction	123
+428	genetics	123
+965	steampunk	122
+631	marvel	122
+107	based on a comic	122
+10	3d	122
+929	slow paced	121
+777	philip k. dick	121
+43	alien invasion	120
+963	star trek	119
+861	rock and roll	119
+176	campy	119
+787	plot holes	118
+640	melancholy	118
+581	journalism	118
+423	gangsters	118
+971	storytelling	117
+749	oscar (best directing)	117
+271	crude humor	117
+1066	vampire	115
+474	gritty	114
+957	spoof	113
+930	small town	112
+745	oscar (best actor)	112
+718	not funny	112
+282	dance	112
+990	supernatural	110
+864	romantic comedy	109
+851	ridiculous	109
+591	kung fu	109
+517	homosexuality	109
+66	anti-hero	109
+8	1980s	109
+1004	sword fight	108
+664	monty python	108
+904	sex	107
+549	intellectual	106
+447	good dialogue	106
+281	cynical	105
+249	confusing	105
+1058	unique	104
+1006	talking animals	104
+987	super-hero	104
+404	france	104
+225	cold war	104
+98	bad ending	104
+899	sentimental	103
+637	medieval	103
+24	addiction	103
+813	prison escape	102
+716	nostalgic	102
+191	cerebral	102
+33	africa	101
+911	shakespeare	100
+218	claymation	100
+184	cars	100
+1050	twists & turns	99
+1013	teen movie	99
+817	propaganda	99
+711	noir thriller	99
+586	kidnapping	99
+348	end of the world	99
+882	scenic	98
+553	interesting	98
+1081	vigilante	97
+607	london	97
+303	dinosaurs	97
+1053	underrated	96
+540	india	96
+110	based on a tv show	96
+645	mentor	95
+243	computer animation	95
+99	bad plot	95
+999	suspenseful	94
+703	new york	94
+334	dysfunctional family	94
+62	animated	94
+887	science	93
+872	samurai	93
+732	obsession	93
+350	enigmatic	93
+217	claustrophobic	93
+364	excellent script	92
+964	star wars	91
+694	nature	91
+56	amnesia	90
+945	spaghetti western	89
+1075	video games	88
+993	surprise ending	88
+699	neo-noir	88
+68	anti-war	88
+807	pregnancy	86
+296	depression	86
+276	culture clash	86
+142	bleak	86
+27	adultery	86
+17	absurd	86
+959	spy	85
+429	genius	85
+59	androids	85
+843	redemption	84
+765	paranoia	84
+728	nudity (rear)	84
+495	heartbreaking	84
+465	great cinematography	84
+417	funny as hell	84
+1036	tragedy	83
+316	dogs	83
+889	scifi	82
+790	poignant	82
+742	original plot	82
+638	meditative	82
+299	detective	82
+112	based on book	82
+1126	zombie	81
+898	self discovery	81
+357	environmental	81
+489	happy ending	80
+399	football	80
+386	feel good movie	80
+304	directorial debut	80
+287	dark hero	80
+262	courtroom drama	80
+22	adapted from:comic	80
+883	schizophrenia	79
+537	immortality	79
+445	good acting	79
+81	assassination	79
+1011	technology	78
+968	stop motion	78
+538	incest	78
+389	fighting	78
+359	erotic	78
+323	dramatic	78
+302	dialogue driven	78
+167	brutal	78
+61	animals	78
+818	prostitution	77
+481	guns	77
+382	father daughter relationship	77
+251	conspiracy theory	77
+53	amazing cinematography	77
+648	middle east	76
+639	melancholic	76
+594	las vegas	76
+172	business	76
+1026	time loop	75
+1002	sweet	75
+933	so bad it's good	75
+746	oscar (best actress)	75
+584	justice	75
+438	girlie movie	75
+336	dystopic future	75
+321	dragons	75
+283	dancing	75
+105	baseball	75
+925	slapstick	74
+829	quotable	74
+795	police corruption	74
+662	monster	74
+1125	wwii	73
+1008	tarantino	73
+893	screwball comedy	73
+689	mythology	73
+131	big budget	73
+850	revolution	72
+781	photography	72
+578	jesus	72
+210	cia	72
+972	stranded	71
+954	spies	71
+513	hollywood	71
+338	easily confused with other movie(s) (title)	71
+202	childhood	71
+7	1970s	71
+1101	wedding	70
+624	male nudity	70
+568	isolation	70
+539	independent film	70
+483	hackers	70
+108	based on a play	70
+1048	twist	69
+791	pointless	69
+734	off-beat comedy	69
+629	mars	69
+627	marijuana	69
+611	los angeles	69
+454	goofy	69
+286	dark fantasy	69
+207	christian	69
+41	alcoholism	69
+19	action packed	69
+1042	treasure	68
+983	suburbia	68
+751	oscar (best effects - visual effects)	68
+433	germany	68
+307	disaster	68
+9	19th century	68
+1078	vietnam	67
+980	stylish	67
+909	sexualized violence	67
+842	rebellion	67
+766	paranoid	67
+724	nudity	67
+633	masterpiece	67
+388	fight scenes	67
+331	dumb	67
+312	divorce	67
+226	college	67
+204	china	67
+1087	virus	66
+1038	trains	66
+761	over the top	66
+686	musicians	66
+557	investigation	66
+305	disability	66
+290	deadpan	66
+261	courtroom	66
+201	child abuse	66
+819	psychedelic	65
+493	haunted house	65
+453	good versus evil	65
+398	food	65
+320	dragon	65
+168	brutality	65
+134	biopic	65
+130	biblical	65
+101	bad script	65
+70	archaeology	65
+1088	visceral	64
+1060	unlikeable characters	64
+915	short	64
+906	sexual	64
+723	nuclear war	64
+380	fashion	64
+240	complex characters	64
+148	bollywood	64
+128	better than expected	64
+74	art	64
+982	submarine	63
+947	spanish	63
+573	jane austen	63
+511	hitman	63
+269	criterion	63
+91	aviation	63
+52	alternate universe	63
+927	slavery	62
+910	sexy	62
+853	road movie	62
+827	queer	62
+804	poverty	62
+792	poker	62
+597	lawyers	62
+541	indiana jones	62
+1115	women	61
+1001	swedish	61
+955	splatter	61
+565	irreverent	61
+561	ireland	61
+144	blood	61
+0	007	61
+1054	understated	60
+757	oscar (best supporting actor)	60
+628	marriage	60
+484	hacking	60
+86	australia	60
+1105	werewolves	59
+953	spielberg	59
+708	no plot	59
+343	eerie	59
+84	atheism	59
+25	adolescence	59
+1056	unfunny	58
+1015	teenagers	58
+700	nerds	58
+381	fast paced	58
+213	civil war	58
+42	alien	58
+1074	video game adaptation	57
+472	grim	57
+466	great dialogue	57
+6	1960s	57
+1122	writers	56
+973	strange	56
+811	pretentious	56
+543	indie	56
+242	complicated plot	56
+145	bloody	56
+104	bank robbery	56
+1094	voyeurism	55
+671	motorcycle	55
+571	italy	55
+451	good soundtrack	55
+421	gangs	55
+397	flashbacks	55
+221	cloning	55
+4	1930s	55
+891	scotland	54
+432	german	54
+422	gangster	54
+1069	vengeance	53
+962	stand-up comedy	53
+916	short-term memory loss	53
+865	rome	53
+510	hitchcock	53
+420	gambling	53
+326	dreamworks	53
+270	cross dressing	53
+239	complex	53
+73	arnold	53
+1119	world war i	52
+1028	tokyo	52
+885	sci fi	52
+884	school	52
+649	midlife crisis	52
+647	mexico	52
+617	lyrical	52
+169	buddy movie	52
+12	80s	52
+967	stoner movie	51
+934	soccer	51
+536	immigrants	51
+501	high fantasy	51
+488	hannibal lecter	51
+487	handycam	51
+344	effects	51
+103	ballet	51
+90	autism	51
+996	surveillance	50
+974	strippers	50
+619	mad scientist	50
+575	japanese	50
+567	island	50
+435	ghosts/afterlife	50
+374	family bonds	50
+327	drinking	50
+54	amazing photography	50
+1123	writing	49
+1051	undercover cop	49
+960	spying	49
+764	parallel universe	49
+551	intelligent sci-fi	49
+427	geeks	49
+160	brazil	49
+92	awesome	49
+58	android(s)/cyborg(s)	49
+5	1950s	49
+1029	tolkien	48
+733	ocean	48
+719	notable nudity	48
+705	new zealand	48
+673	movie business	48
+672	mountain climbing	48
+600	life & death	48
+491	harry potter	48
+354	entertaining	48
+293	demons	48
+246	con artists	48
+132	biographical	48
+1092	visuals	47
+857	robert downey jr	47
+760	oscar winner	47
+548	inspiring	47
+346	emma watson	47
+280	cyborgs	47
+171	bullying	47
+1114	wizards	46
+1043	treasure hunt	46
+896	secrets	46
+871	sad but good	46
+379	fascism	46
+368	explosions	46
+351	ennio morricone	46
+216	classical music	46
+196	cheerleading	46
+49	alternate endings	46
+34	afterlife	46
+1040	transgender	45
+939	south america	45
+832	race issues	45
+684	music business	45
+670	mother-son relationship	45
+328	drug abuse	45
+273	cult	45
+228	colourful	45
+152	book was better	45
+146	boarding school	45
+143	blindness	45
+118	beatles	45
+50	alternate history	45
+47	alone in the world	45
+20	adaptation	45
+16	abortion	45
+1061	unlikely friendships	44
+966	stereotypes	44
+668	morality	44
+544	infidelity	44
+449	good romantic comedies	44
+430	genocide	44
+193	character study	44
+138	bizarre	44
+1082	vigilantism	43
+1007	talky	43
+985	suicide attempt	43
+873	san francisco	43
+821	psychiatry	43
+800	pornography	43
+717	not as good as the first	43
+710	noir	43
+666	moon	43
+643	mental hospital	43
+562	irish	43
+471	greed	43
+444	good	43
+401	foreign	43
+378	farce	43
+187	catastrophe	43
+185	cartoon	43
+181	capitalism	43
+178	cancer	43
+166	brothers	43
+150	bond	43
+124	berlin	43
+1108	wilderness	42
+1057	unintentionally funny	42
+912	shallow	42
+833	racing	42
+752	oscar (best foreign language film)	42
+620	made for tv	42
+530	idealism	42
+468	great movie	42
+436	giant robots	42
+255	corny	42
+127	betrayal	42
+48	alter ego	42
+36	aids	42
+35	aging	42
+3	1920s	42
+1104	werewolf	41
+946	spain	41
+868	russian	41
+675	moving	41
+663	monsters	41
+659	modern fantasy	41
+585	kick-butt women	41
+560	iraq war	41
+558	iran	41
+516	homophobia	41
+503	highly quotable	41
+476	gruesome	41
+175	camp	41
+39	alaska	41
+926	slasher	40
+773	period piece	40
+754	oscar (best music - original song)	40
+707	no dialogue	40
+570	italian	40
+485	halloween	40
+457	gory	40
+355	entirely dialogue	40
+297	desert	40
+263	crappy sequel	40
+248	confrontational	40
+194	chase	40
+189	catholicism	40
+186	casino	40
+117	bdsm	40
+1117	workplace	39
+1111	witch	39
+943	space program	39
+743	orphans	39
+715	nostalgia	39
+660	money	39
+478	guilty pleasure	39
+236	communism	39
+232	comic book adaption	39
+115	basketball	39
+87	australian	39
+71	argentina	39
+1018	television	38
+989	superheroes	38
+894	script	38
+738	ominous	38
+626	manipulation	38
+623	magic realism	38
+604	literary adaptation	38
+533	imaginary friend	38
+498	heroin	38
+441	god	38
+300	devil	38
+227	colonialism	38
+180	caper	38
+113	based on comic	38
+79	artsy	38
+14	aardman	38
+1100	weapons	37
+1085	virginity	37
+1070	very funny	37
+1010	tear jerker	37
+978	stupid as hell	37
+938	south africa	37
+924	slackers	37
+856	robbery	37
+680	muppets	37
+656	miyazaki	37
+634	math	37
+448	good music	37
+390	fighting the system	37
+2	18th century	37
+1045	trilogy	36
+1003	switching places	36
+667	moral ambiguity	36
+500	heroine in tight suit	36
+415	funniest movies	36
+385	fbi	36
+365	exceptional acting	36
+294	depp & burton	36
+253	cooking	36
+102	bad sequel	36
+814	private detective	35
+563	irish accent	35
+559	iraq	35
+556	intimate	35
+554	internet	35
+519	hong kong	35
+494	hawaii	35
+264	crazy	35
+238	competition	35
+237	compassionate	35
+157	bowling	35
+114	based on true story	35
+93	awesome soundtrack	35
+1055	underwater	34
+1017	teleportation	34
+789	poetry	34
+753	oscar (best music - original score)	34
+698	neo-nazis	34
+697	neil gaiman	34
+687	mutants	34
+587	kids	34
+509	hit men	34
+409	freedom	34
+292	death penalty	34
+258	costume drama	34
+190	censorship	34
+159	brainwashing	34
+97	bad cgi	34
+1099	watch the credits	33
+1052	underdog	33
+979	stupidity	33
+920	simple	33
+907	sexual abuse	33
+855	roald dahl	33
+826	puppets	33
+646	metaphysics	33
+518	honest	33
+402	foul language	33
+366	exciting	33
+339	east germany	33
+309	disney animated feature	33
+254	cool	33
+212	circus	33
+1102	weed	32
+1089	visual	32
+1073	video game	32
+895	secret service	32
+693	natural disaster	32
+618	macabre	32
+593	lame	32
+583	jungle	32
+531	identity	32
+524	hostage	32
+490	hard to watch	32
+394	firefly	32
+393	finnish	32
+345	egypt	32
+162	brilliant	32
+156	boston	32
+65	antarctica	32
+1041	travel	31
+838	rats	31
+815	product placement	31
+770	passionate	31
+758	oscar (best supporting actress)	31
+592	kurosawa	31
+577	jazz	31
+576	jay and silent bob	31
+460	graphic design	31
+256	corporate america	31
+153	books	31
+135	birds	31
+13	9/11	31
+1116	working class	30
+1093	voodoo	30
+1016	teens	30
+992	surfing	30
+942	space opera	30
+874	sappy	30
+840	realistic action	30
+776	pg-13	30
+702	new orleans	30
+669	mother daughter relationship	30
+606	liv tyler	30
+569	israel	30
+520	horrible	30
+477	guilt	30
+443	golf	30
+315	dog	30
+233	comics	30
+165	broadway	30
+155	boring!	30
+94	awful	30
+72	arms dealer	30
+11	70mm	30
+1080	view askew	29
+1035	toys	29
+948	spanish civil war	29
+923	skinhead	29
+917	silent	29
+869	sacrifice	29
+859	robot	29
+796	police investigation	29
+706	ninja	29
+642	memory loss	29
+462	gratuitous violence	29
+375	family drama	29
+362	evolution	29
+199	chicago	29
+111	based on a video game	29
+83	astronauts	29
+55	american civil war	29
+38	airport	29
+1039	transformation	28
+1032	too short	28
+1014	teenager	28
+986	super hero	28
+809	prequel	28
+692	native americans	28
+679	mummy	28
+655	mistaken identity	28
+608	lone hero	28
+590	kubrick	28
+579	jewish	28
+545	innocence lost	28
+532	idiotic	28
+523	hospital	28
+522	horses	28
+473	grindhouse	28
+400	forceful	28
+318	downbeat	28
+126	best war films	28
+1112	witches	27
+936	solitude	27
+875	sarcasm	27
+867	russia	27
+825	punk	27
+767	parenthood	27
+725	nudity (full frontal - brief)	27
+682	murder mystery	27
+665	moody	27
+632	marx brothers	27
+596	lawyer	27
+480	gunfight	27
+463	great	27
+440	global warming	27
+426	geek	27
+363	excellent	27
+268	crime gone awry	27
+247	con men	27
+67	anti-semitism	27
+37	airplane	27
+1009	teacher	26
+736	oil	26
+691	nasa	26
+566	islam	26
+525	hotel	26
+469	great music	26
+442	golden palm	26
+372	fake documentary	26
+371	fairy tales	26
+329	drug addiction	26
+319	dr. seuss	26
+298	destiny	26
+260	court	26
+222	clowns	26
+206	chris tucker	26
+177	canada	26
+141	blaxploitation	26
+57	amy smart	26
+1071	very good	25
+1025	time	25
+1000	swashbuckler	25
+932	so bad it's funny	25
+919	silly fun	25
+810	president	25
+722	nuclear bomb	25
+713	non-linear	25
+595	latin america	25
+588	kids and family	25
+580	jews	25
+452	good story	25
+395	first contact	25
+369	factual	25
+340	eccentricity	25
+235	coming-of-age	25
+1059	united nations	24
+1005	sword fighting	24
+991	suprisingly clever	24
+922	sisters	24
+913	shark	24
+897	segregation	24
+847	remade	24
+841	reality tv	24
+835	radio	24
+785	pixar animation	24
+747	oscar (best animated feature)	24
+614	love triangles	24
+555	interracial romance	24
+512	holiday	24
+356	environment	24
+341	ecology	24
+215	classic car	24
+198	chess	24
+195	cheating	24
+183	carrie-anne moss	24
+82	assassins	24
+26	adoption	24
+1	007 (series)	24
+1110	wistful	23
+1096	war movie	23
+1065	utopia	23
+1020	terminal illness	23
+905	sex comedy	23
+892	screwball	23
+831	race	23
+816	prohibition	23
+774	peter pan	23
+739	opera	23
+737	olympics	23
+657	mob	23
+506	hip hop	23
+492	harsh	23
+475	gross-out	23
+446	good action	23
+342	educational	23
+333	dynamic cgi action	23
+30	afi 100	23
+29	affectionate	23
+1098	waste of time	22
+1037	train	22
+921	single father	22
+879	saturn award (best science fiction film)	22
+798	political corruption	22
+759	oscar (best writing - screenplay written directly for the screen)	22
+756	oscar (best sound)	22
+735	office	22
+605	literature	22
+599	life	22
+542	indians	22
+529	hunting	22
+526	humanity	22
+439	glbt	22
+383	father son relationship	22
+161	breathtaking	22
+129	better than the american version	22
+23	adapted from:game	22
+1121	writer's life	21
+1077	vienna	21
+1047	truman capote	21
+961	stage magic	21
+914	shopping	21
+782	pigs	21
+771	penguins	21
+709	nocturnal	21
+701	new jersey	21
+603	lions	21
+582	judaism	21
+564	ironic	21
+479	gulf war	21
+461	graphic novel	21
+456	goretastic	21
+425	gay character	21
+361	ethnic conflict	21
+337	earnest	21
+278	cute!	21
+265	creativity	21
+220	clones	21
+95	bad	21
+75	art house	21
+45	allegory	21
+32	afi 100 (movie quotes)	21
+1109	wine	20
+976	stunning	20
+969	stop-motion	20
+903	series	20
+890	scifi cult	20
+712	non-hollywood ending	20
+602	light	20
+601	life philosophy	20
+505	hillarious	20
+408	free to download	20
+332	dumb but funny	20
+272	cuba	20
+123	beer	20
+31	afi 100 (laughs)	20
+1097	wartime	19
+1076	videogame	19
+1022	texas	19
+878	saturday night live	19
+852	rio de janeiro	19
+820	psychiatrist	19
+780	photographer	19
+653	minnesota	19
+223	coen bros	19
+174	california	19
+170	bullshit history	19
+136	biting	19
+77	artist	19
+40	alcatraz	19
+1118	world politics	18
+1030	tom clancy	18
+931	snakes	18
+824	pulp	18
+793	poland	18
+636	maze	18
+625	man versus machine	18
+589	king arthur	18
+482	gypsy accent	18
+458	goth	18
+403	fountain of youth	18
+313	doctors	18
+289	dc comics	18
+244	computer game	18
+122	beauty pageant	18
+1124	wuxia	17
+1072	very interesting	17
+940	southern theme	17
+880	saturn award (best special effects)	17
+858	robert ludlum	17
+836	rags to riches	17
+652	mining	17
+515	homeless	17
+499	heroine	17
+391	figure skating	17
+310	distopia	17
+259	courage	17
+173	c.s. lewis	17
+147	boat	17
+89	author:neil gaiman	17
+88	author:alan moore	17
+866	runaway	16
+830	rabbits	16
+772	perfect	16
+695	nazi	16
+676	mozart	16
+661	monkey	16
+654	mission from god	16
+616	lynch	16
+437	gilliam	16
+431	george orwell	16
+412	frightening	16
+396	fish	16
+317	dolphins	16
+151	book	16
+46	almodovar	16
+956	spock	15
+949	special	15
+414	fun movie	15
+352	enormously long battle scene	15
+230	comic	15
+205	chocolate	15
+1064	us history	14
+1044	tricky	14
+952	spiders	14
+951	spelling bee	14
+901	sequels	14
+808	prejudice	14
+803	potential oscar nom	14
+775	pg	14
+750	oscar (best editing)	14
+744	oscar	14
+677	mtv	14
+450	good sequel	14
+407	free speech	14
+721	nuclear	13
+406	francis ford copolla	13
+188	cathartic	13
+60	animal movie	13
+15	aardman studios	13
+937	sophia coppola	12
+674	movielens top pick	12
+149	bombs	12
+125	best of 2005	12
+1067	vampire human love	11
+763	palestine	11
+1063	unusual plot structure	10

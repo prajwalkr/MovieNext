@@ -1,0 +1,2 @@
+MovieNext collects only about your movie tastes. 
+And the information is used to give you smarter suggestions as you use the app.

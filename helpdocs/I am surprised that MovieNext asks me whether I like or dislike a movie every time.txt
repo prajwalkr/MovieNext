@@ -1,0 +1,3 @@
+It is the fundamental way of judging your tastes ---- based on your likes and dislikes. 
+MovieNext learns how much you like a particular genre or how much you hate a specific kind of movie based on whether you
+like a given movie or not. 

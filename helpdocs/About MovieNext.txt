@@ -1,0 +1,3 @@
+MovieNext is a smart application which learns from your movie tastes to predict you better, more relevant
+movies which you might enjoy watching. 
+It applies machine learning to learn your preferences and movie tastes. 
